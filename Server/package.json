@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "mern-stack-movie-website-2024",
   "type": "module",
   "version": "0.0.1",
@@ -21,7 +20,7 @@
     "mongoose": "^8.4.3",
     "nodemon": "^3.1.3",
     "postman": "^0.2.0"
-=======
+    
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -74,6 +73,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 37d748010998e87725ce49629268a68436f7c465
   }
 }
